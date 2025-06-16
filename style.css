@@ -1,4 +1,17 @@
+body{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
 div{
-    height: 100px;
-    w
+    height: 200px;
+    width: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+button{
+    width: 115px;
+    height: 25px;
+    margin: 10px auto;
+    display: block;
 }
